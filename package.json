@@ -1,7 +1,7 @@
 {
   "private": true,
-  "name": "elheniPortfolio",
-  "homepage": ".",
+  "name": "mohamedazizelheni",
+  "homepage": "https://mohamedazizelheni.github.io/my-app",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
