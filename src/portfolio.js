@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Mohamed Aziz Elheni Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "https://mohamedazizelheni.github.io/AzizPortfolio",
   },
 };
 
