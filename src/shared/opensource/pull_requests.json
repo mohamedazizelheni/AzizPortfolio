@@ -1,0 +1,29 @@
+{
+  "closed": 0,
+  "data": [
+    {
+      "id": "PR_kwDOIUmt2c5Bruik",
+      "title": "Add files via upload",
+      "url": "https://github.com/balsem9850/JAVAbeans/pull/2",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2022-10-27T16:51:58Z",
+      "number": 2,
+      "changedFiles": 1,
+      "additions": 0,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "JAVAbeans",
+        "url": "https://github.com/balsem9850/JAVAbeans",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/94084568?u=3cbdf8481d24e056096c2e272e24b0236438572d&v=4",
+          "login": "balsem9850",
+          "url": "https://github.com/balsem9850"
+        }
+      }
+    }
+  ],
+  "merged": 0,
+  "open": 1,
+  "totalCount": 1
+}
