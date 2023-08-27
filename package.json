@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "mohamedazizelheni",
-  "homepage": "https://mohamedazizelheni.github.io/my-app",
+  "homepage": "https://mohamedazizelheni.github.io/AzizPortfolio",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
@@ -10,7 +10,7 @@
     "eject": "react-scripts eject",
     "start": "react-scripts start",
     "test": "react-scripts test"
-  },
+  },  
   "dependencies": {
     "@apollo/react-hooks": "^3.1.3",
     "apollo-boost": "^0.4.4",
