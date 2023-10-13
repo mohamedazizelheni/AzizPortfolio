@@ -21,7 +21,7 @@ const seo = {
 const greeting = {
   title: "Mohamed Aziz Elheni",
   logo_name: "Mohamedazizelheni",
-  nickname: "mrabaaaa3 ",
+  nickname: "",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
