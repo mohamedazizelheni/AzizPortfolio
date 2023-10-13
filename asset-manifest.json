@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/AzizPortfolio/static/css/main.90692e09.css",
-    "main.js": "/AzizPortfolio/static/js/main.6f21ee0d.js",
+    "main.css": "/AzizPortfolio/static/css/main.7d5340e0.css",
+    "main.js": "/AzizPortfolio/static/js/main.d236ca3f.js",
     "static/media/portfolio.gif": "/AzizPortfolio/static/media/portfolio.ed6c89f1485f23014ebd.gif",
     "static/media/mypic.png": "/AzizPortfolio/static/media/mypic.ad01e6458e1431b88667.png",
     "static/media/fa-solid-900.svg": "/AzizPortfolio/static/media/fa-solid-900.9fa614346b4e81decc62.svg",
@@ -74,11 +74,11 @@
     "static/media/googleAssistant.svg": "/AzizPortfolio/static/media/googleAssistant.1c2312558eb2e5f04a45.svg",
     "static/media/talksCardBackAlt.svg": "/AzizPortfolio/static/media/talksCardBackAlt.018d87225926eee9ccc3.svg",
     "static/media/talksCardBack.svg": "/AzizPortfolio/static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
-    "main.90692e09.css.map": "/AzizPortfolio/static/css/main.90692e09.css.map",
-    "main.6f21ee0d.js.map": "/AzizPortfolio/static/js/main.6f21ee0d.js.map"
+    "main.7d5340e0.css.map": "/AzizPortfolio/static/css/main.7d5340e0.css.map",
+    "main.d236ca3f.js.map": "/AzizPortfolio/static/js/main.d236ca3f.js.map"
   },
   "entrypoints": [
-    "static/css/main.90692e09.css",
-    "static/js/main.6f21ee0d.js"
+    "static/css/main.7d5340e0.css",
+    "static/js/main.d236ca3f.js"
   ]
 }
